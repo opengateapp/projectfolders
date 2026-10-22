@@ -1,0 +1,11 @@
+# CLASSIC preset - the original single-machine layout.
+# To use it: copy these lines over folders.txt (in ~/.project-folders/ after install).
+
+VIDEO/OUTPUT
+AUDIO/FOLEY
+AUDIO/MUSIC
+GRAPHICS/POSTER
+PHOTOS
+TIMELINES/DAVINCI
+TIMELINES/PREMIERE
+DOCUMENTS

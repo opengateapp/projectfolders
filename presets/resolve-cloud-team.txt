@@ -1,0 +1,17 @@
+# RESOLVE CLOUD TEAM - for teams editing remotely with a NAS and DaVinci Resolve
+# cloud projects. Originals stay on the NAS, proxies are kept separate so nobody
+# ends up with duplicate media paths.
+
+00_MEDIA/CAMERA
+00_MEDIA/AUDIO/PRODUCTION
+00_MEDIA/AUDIO/FOLEY
+00_MEDIA/AUDIO/MUSIC
+00_MEDIA/PHOTOS
+00_MEDIA/GRAPHICS/POSTER
+01_PROXY
+02_PROJECT_FILES/DAVINCI
+02_PROJECT_FILES/PREMIERE
+03_VFX
+04_RENDERS
+05_OUTPUT
+06_DOCUMENTS

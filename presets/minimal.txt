@@ -1,0 +1,6 @@
+# MINIMAL preset - just the essentials for small jobs.
+
+MEDIA
+PROJECT
+EXPORTS
+DOCUMENTS
